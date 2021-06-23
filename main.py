@@ -1,7 +1,7 @@
 # This creates a basic eCommerce website using Flask and SQLite
 # Zachary Rubin, zrubin@rtc.edu
 # CNA 340 Spring 2019
-
+# Cloning for Repository Assignment
 from flask import *
 import sqlite3, hashlib, os
 from werkzeug.utils import secure_filename
